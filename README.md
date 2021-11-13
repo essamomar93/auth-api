@@ -14,7 +14,7 @@
 ## Deployment Test :
 - Heroku : https://essam-auth-api.herokuapp.com/
 - Backend: https://github.com/essamomar93/auth-api
-- last Pull request: 
+- last Pull request: https://github.com/essamomar93/auth-api/pull/2 
 
 ## Languages :
 - javascript
